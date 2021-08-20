@@ -47,5 +47,5 @@
   - fix : 버그 픽스나 핫픽스 이슈
   - resolve : 문의나 요청사항에 대응한 이슈
 ## Readme
-- [markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601, "github link")
-- [template](https://github.com/sujinleeme/readme-template/tree/master/korean, "readme template link") 
+- [markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [template](https://github.com/sujinleeme/readme-template/tree/master/korean) 
