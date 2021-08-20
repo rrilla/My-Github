@@ -2,8 +2,8 @@
 > 깃 관련 자료, 설정
 
 ## Index
-- [Commit](Commit)
-- [Readme](Readme)
+- [Commit](#commit)
+- [Readme](#readme)
 
 ## Commit
 > [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/, "commit msg link")
