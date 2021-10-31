@@ -32,7 +32,6 @@
   delete  : 삭제
   rename  : 이름 변경
   move    : 코드, 파일 이동
-  delete  : 삭제
   ```
 4. 메시지 rule
 - 제목
